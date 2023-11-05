@@ -1,2 +1,1 @@
 # slstatus
-slstatus configs repo
